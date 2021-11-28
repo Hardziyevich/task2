@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Entity xmlns:tns="http://www.example.org/entity"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.example.org/entity CandyScheme.xsd">
+
+    <tns:Chocolate id="12" candy-type="chocolate">
+        <energy>10</energy>
+        <name-candy>Alenka</name-candy>
+        <production>Komunarka</production>
+        <ingredient water="0.001" sugar="0.001" fructose="0.001" vanilla="0.001"/>
+        <value>
+            <fat>1</fat>
+            <protein>1</protein>
+            <carb>1</carb>
+        </value>
+        <shelf-life>2002-05-30T09:00:00</shelf-life>
+    </tns:Chocolate>
+
+    <tns:Caramel id="13" candy-type="caramel">
+        <energy>14</energy>
+        <name-candy>Mashka</name-candy>
+        <production>Komunarka</production>
+        <ingredient water="0.002" sugar="0.002" fructose="0.002" vanilla="0.002"/>
+        <value>
+            <fat>14</fat>
+            <protein>11</protein>
+            <carb>123</carb>
+        </value>
+        <shelf-life>2002-05-30T09:00:00</shelf-life>
+    </tns:Caramel>
+
+    <tns:Chocolate id="14" candy-type="">
+        <energy>153</energy>
+        <name-candy>Pushka</name-candy>
+        <production>Komunarka</production>
+        <ingredient water="0.003" sugar="0.003" fructose="0.003" vanilla="0.003"/>
+        <value>
+            <fat>11</fat>
+            <protein>12</protein>
+            <carb>13</carb>
+        </value>
+        <shelf-life>2002-05-30T09:00:00</shelf-life>
+    </tns:Chocolate>
+
+
+</tns:Entity>
