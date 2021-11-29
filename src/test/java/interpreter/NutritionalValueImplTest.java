@@ -25,9 +25,9 @@ public class NutritionalValueImplTest {
         });
 
         assertAll(()->{
-            assertThrows(SomeException.class,()-> test.interpret("fat","ASDASD"));
+            assertDoesNotThrow(()-> test.interpret("fat","ASDASD"));
             assertThrows(SomeException.class,()-> test.interpret(null,"1"));
-            assertThrows(SomeException.class,()-> test.interpret("fat",null));
+            assertDoesNotThrow(()-> test.interpret("fat",null));
             assertDoesNotThrow(()-> test.interpret("`12`12`","tyjty"));
             assertEquals(1,test.getCarb());
             assertEquals(1,test.getFat());

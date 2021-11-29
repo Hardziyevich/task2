@@ -13450,3 +13450,482 @@ by.hardziyevich.task2.exeption.SomeException
 [2021-11-29 23:19:49,322] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
 [2021-11-29 23:19:49,323] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
 [2021-11-29 23:19:49,323] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:28:16,876] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,881] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:28:16,882] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:28:16,882] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:28:16,888] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,890] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-29 23:28:16,892] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,893] INFO [by.hardziyevich.task2.validator.Validator: 49] `12`12` is correct
+[2021-11-29 23:28:16,902] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,903] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:16,903] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:16,904] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,909] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:28:16,910] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-29 23:28:16,911] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:28:16,912] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:28:16,914] INFO [by.hardziyevich.task2.validator.Validator: 49] pasha is correct
+[2021-11-29 23:28:16,914] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:28:16,915] INFO [by.hardziyevich.task2.validator.Validator: 49] pasha is correct
+[2021-11-29 23:28:16,915] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:28:16,916] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:28:16,926] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-29 23:28:16,927] INFO [by.hardziyevich.task2.validator.Validator: 49] randomData is correct
+[2021-11-29 23:28:16,946] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\build\resources\main\Candy.xml is correct
+[2021-11-29 23:28:16,950] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:28:16,950] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-29 23:28:16,951] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-29 23:28:16,951] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-29 23:28:16,952] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Chocolate is correct
+[2021-11-29 23:28:16,952] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:28:16,953] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:28:16,953] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-29 23:28:16,954] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:28:16,954] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-29 23:28:16,955] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,956] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,957] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:28:16,957] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:28:16,958] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:28:16,959] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:28:16,959] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:28:16,960] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:28:16,960] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:16,961] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:16,962] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:16,963] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,963] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,965] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,966] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:16,970] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:16,971] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:16,971] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:16,972] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:16,972] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:16,973] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:28:16,973] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:28:16,978] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:28:16,979] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-29 23:28:16,980] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-29 23:28:16,980] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Caramel is correct
+[2021-11-29 23:28:16,981] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:28:16,982] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:28:16,982] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-29 23:28:16,983] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:28:16,984] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-29 23:28:16,984] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,985] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,985] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:28:16,986] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:28:16,986] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:28:16,987] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:28:16,987] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:28:16,988] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:28:16,988] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:16,989] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:16,989] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:16,990] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,990] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,991] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:16,991] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:16,991] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:16,992] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:16,992] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:16,993] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:16,993] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:16,994] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:28:16,994] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:28:16,995] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:28:16,995] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-29 23:28:16,996] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-29 23:28:16,996] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Chocolate is correct
+[2021-11-29 23:28:16,997] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:28:16,997] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:28:16,997] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-29 23:28:16,998] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:28:16,998] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-29 23:28:16,999] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:16,999] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:28:17,000] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:28:17,000] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:28:17,000] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:28:17,001] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:28:17,001] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:28:17,002] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:28:17,002] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:17,002] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:17,003] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:28:17,003] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:17,004] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:17,004] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:17,004] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:17,005] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:17,005] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:17,006] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:17,006] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:17,006] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:17,007] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:28:17,007] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:28:17,010] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened File does not exists
+[2021-11-29 23:28:17,011] WARN [by.hardziyevich.task2.exeption.SomeException: 16] Something happened
+[2021-11-29 23:28:17,011] WARN [by.hardziyevich.task2.validator.Validator: 54] Something happened {1}
+by.hardziyevich.task2.exeption.SomeException
+	at by.hardziyevich.task2.validator.Validator.get(Validator.java:52)
+	at by.hardziyevich.task2.parser.CandyParser.parse(CandyParser.java:22)
+	at parser.CandyParserTest.lambda$testParser$0(CandyParserTest.java:31)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3082)
+	at parser.CandyParserTest.lambda$testParser$2(CandyParserTest.java:31)
+	at org.junit.jupiter.api.AssertAll.lambda$assertAll$0(AssertAll.java:68)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:77)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:44)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:38)
+	at org.junit.jupiter.api.Assertions.assertAll(Assertions.java:2911)
+	at parser.CandyParserTest.testParser(CandyParserTest.java:29)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:135)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	Suppressed: by.hardziyevich.task2.exeption.SomeException: File does not exists
+		at by.hardziyevich.task2.validator.Validator.validate(Validator.java:42)
+		... 109 more
+[2021-11-29 23:28:17,016] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-29 23:28:54,868] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:28:54,873] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:28:54,873] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:28:54,877] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:33,952] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:33,957] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:33,958] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:33,963] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:33,964] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-29 23:29:33,965] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:33,966] INFO [by.hardziyevich.task2.validator.Validator: 49] `12`12` is correct
+[2021-11-29 23:29:33,980] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:33,981] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:29:33,982] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:29:33,982] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:29:33,983] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:33,984] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-29 23:29:33,985] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:33,985] INFO [by.hardziyevich.task2.validator.Validator: 49] `12`12` is correct
+[2021-11-29 23:29:33,993] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:29:33,995] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-29 23:29:33,995] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:29:33,996] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:29:33,996] INFO [by.hardziyevich.task2.validator.Validator: 49] pasha is correct
+[2021-11-29 23:29:33,997] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:29:33,997] INFO [by.hardziyevich.task2.validator.Validator: 49] pasha is correct
+[2021-11-29 23:29:33,998] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:29:33,998] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:29:34,006] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-29 23:29:34,007] INFO [by.hardziyevich.task2.validator.Validator: 49] randomData is correct
+[2021-11-29 23:29:34,016] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\build\resources\main\Candy.xml is correct
+[2021-11-29 23:29:34,019] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:29:34,020] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-29 23:29:34,020] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-29 23:29:34,021] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-29 23:29:34,021] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Chocolate is correct
+[2021-11-29 23:29:34,022] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:29:34,022] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:29:34,023] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-29 23:29:34,023] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:29:34,024] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-29 23:29:34,024] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:34,025] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:34,025] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:29:34,026] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:29:34,026] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:29:34,027] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:29:34,027] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:29:34,027] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:29:34,028] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,028] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,029] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,029] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,030] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,030] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,031] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,031] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,032] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,032] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,033] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,033] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,034] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:29:34,035] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:29:34,036] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:29:34,037] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-29 23:29:34,037] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-29 23:29:34,038] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Caramel is correct
+[2021-11-29 23:29:34,039] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:29:34,039] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:29:34,040] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-29 23:29:34,040] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:29:34,041] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-29 23:29:34,041] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:34,042] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:34,042] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:29:34,042] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:29:34,043] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:29:34,043] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:29:34,044] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:29:34,044] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:29:34,045] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,045] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,045] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,046] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,046] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,046] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,047] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,047] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,048] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,048] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,049] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,049] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,049] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:29:34,050] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:29:34,051] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-29 23:29:34,051] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-29 23:29:34,052] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-29 23:29:34,052] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Chocolate is correct
+[2021-11-29 23:29:34,052] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-29 23:29:34,053] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-29 23:29:34,053] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-29 23:29:34,054] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-29 23:29:34,054] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-29 23:29:34,055] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:34,055] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-29 23:29:34,055] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:29:34,056] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-29 23:29:34,056] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:29:34,057] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-29 23:29:34,057] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:29:34,057] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-29 23:29:34,058] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,058] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,059] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-29 23:29:34,059] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,059] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,060] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-29 23:29:34,060] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,060] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,061] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-29 23:29:34,061] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,062] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,062] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-29 23:29:34,063] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-29 23:29:34,063] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-29 23:29:34,066] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened File does not exists
+[2021-11-29 23:29:34,066] WARN [by.hardziyevich.task2.exeption.SomeException: 16] Something happened
+[2021-11-29 23:29:34,067] WARN [by.hardziyevich.task2.validator.Validator: 54] Something happened {1}
+by.hardziyevich.task2.exeption.SomeException
+	at by.hardziyevich.task2.validator.Validator.get(Validator.java:52)
+	at by.hardziyevich.task2.parser.CandyParser.parse(CandyParser.java:22)
+	at parser.CandyParserTest.lambda$testParser$0(CandyParserTest.java:31)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3082)
+	at parser.CandyParserTest.lambda$testParser$2(CandyParserTest.java:31)
+	at org.junit.jupiter.api.AssertAll.lambda$assertAll$0(AssertAll.java:68)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:77)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:44)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:38)
+	at org.junit.jupiter.api.Assertions.assertAll(Assertions.java:2911)
+	at parser.CandyParserTest.testParser(CandyParserTest.java:29)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:135)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	Suppressed: by.hardziyevich.task2.exeption.SomeException: File does not exists
+		at by.hardziyevich.task2.validator.Validator.validate(Validator.java:42)
+		... 109 more
+[2021-11-29 23:29:34,072] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
