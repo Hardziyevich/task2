@@ -1,18 +1,18 @@
-package by.hardziyevich.task2.entity.impl;
+package by.hardziyevich.task2.entity;
 
-import by.hardziyevich.task2.interpreter.InterpreterCandies;
 import by.hardziyevich.task2.interpreter.PropertyCandy;
+import by.hardziyevich.task2.interpreter.impl.IngredientImpl;
+import by.hardziyevich.task2.interpreter.impl.NutritionalValueImpl;
 
 import java.util.Date;
-import java.util.List;
-import java.util.Objects;
 
 public abstract class Candy {
     private final long id;
     private final int energy;
     private final String nameCandy;
     private final String production;
-    private final List<InterpreterCandies> property;
+    private final NutritionalValueImpl nutritionalValue;
+    private final IngredientImpl ingredient;
     private final Date shelfLife;
 
     public long getId() {
@@ -31,10 +31,6 @@ public abstract class Candy {
         return production;
     }
 
-    public List<InterpreterCandies> getProperty() {
-        return List.copyOf(property);
-    }
-
     public Date getShelfLife() {
         return shelfLife;
     }
@@ -44,7 +40,8 @@ public abstract class Candy {
         energy = propertyCandy.getEnergy();
         nameCandy = propertyCandy.getNameCandy();
         production = propertyCandy.getProduction();
-        property = propertyCandy.getProperty();
+        nutritionalValue = propertyCandy.getNutritionalValue();
+        ingredient = propertyCandy.getIngredient();
         shelfLife = propertyCandy.getShelfLife();
     }
 
@@ -53,7 +50,13 @@ public abstract class Candy {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Candy candy = (Candy) o;
-        return id == candy.id && energy == candy.energy && Objects.equals(nameCandy, candy.nameCandy) && Objects.equals(production, candy.production) && Objects.equals(property, candy.property) && Objects.equals(shelfLife, candy.shelfLife);
+        return id == candy.id
+                && energy == candy.energy
+                && nameCandy.equals(candy.nameCandy)
+                && production.equals(candy.production)
+                && nutritionalValue.equals(candy.nutritionalValue)
+                && ingredient.equals(candy.ingredient)
+                && shelfLife.equals(candy.shelfLife);
     }
 
     @Override
@@ -64,15 +67,9 @@ public abstract class Candy {
         result = prime * result + Integer.hashCode(energy);
         result = prime * result + (nameCandy == null ? 0 : nameCandy.hashCode());
         result = prime * result + (production == null ? 0 : production.hashCode());
-        if (property == null) {
-            result = prime * result;
-        } else {
-            for (InterpreterCandies candies : property) {
-                result = prime * result + (candies == null ? 0 : candies.hashCode());
-            }
-        }
+        result = prime * result + (nutritionalValue == null ? 0 : nutritionalValue.hashCode());
+        result = prime * result + (ingredient == null ? 0 : ingredient.hashCode());
         result = prime * result + (shelfLife == null ? 0 : shelfLife.hashCode());
-
         return result;
     }
 
@@ -83,9 +80,8 @@ public abstract class Candy {
         sb.append(", energy= ").append(energy);
         sb.append(", nameCandy= ").append(nameCandy);
         sb.append(", production= ").append(production);
-        sb.append(", property= ");
-        property.forEach(p -> sb.append(p).append(", "));
-        sb.delete(sb.length() - 2, sb.length());
+        sb.append(", ingredient= ").append(ingredient);
+        sb.append(", nutritionalValue= ").append(nutritionalValue);
         sb.append(", shelfLife= ").append(shelfLife);
         sb.append("}");
         return sb.toString();

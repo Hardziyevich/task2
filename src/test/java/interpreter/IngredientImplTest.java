@@ -22,9 +22,9 @@ class IngredientImplTest {
         });
 
         assertAll(()->{
-            assertThrows(SomeException.class,()-> test.interpret("sugar","ASDASD"));
+            assertDoesNotThrow(()-> test.interpret("water","ASDASD"));
             assertThrows(SomeException.class,()-> test.interpret(null,"0.9"));
-            assertThrows(SomeException.class,()-> test.interpret("sugar",null));
+            assertDoesNotThrow(()-> test.interpret("water",null));
             assertDoesNotThrow(()-> test.interpret("`12`12`","kjlkj"));
             assertEquals(0.9,test.getFructose());
             assertEquals(0.9,test.getSugar());

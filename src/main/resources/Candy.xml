@@ -3,7 +3,8 @@
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.example.org/entity CandyScheme.xsd">
 
-    <tns:Chocolate id="12" candy-type="chocolate">
+
+    <tns:Chocolate id="12" chocolate="chocolate-filling" chocolate-filling="not-white">
         <energy>10</energy>
         <name-candy>Alenka</name-candy>
         <production>Komunarka</production>
@@ -16,7 +17,7 @@
         <shelf-life>2002-05-30T09:00:00</shelf-life>
     </tns:Chocolate>
 
-    <tns:Caramel id="13" candy-type="caramel">
+    <tns:Caramel id="13" candy-type="glaze">
         <energy>14</energy>
         <name-candy>Mashka</name-candy>
         <production>Komunarka</production>
@@ -29,7 +30,7 @@
         <shelf-life>2002-05-30T09:00:00</shelf-life>
     </tns:Caramel>
 
-    <tns:Chocolate id="14" candy-type="">
+    <tns:Chocolate id="14" chocolate="chocolate">
         <energy>153</energy>
         <name-candy>Pushka</name-candy>
         <production>Komunarka</production>

@@ -1,7 +1,8 @@
 package by.hardziyevich.task2.interpreter;
 
 import by.hardziyevich.task2.exeption.SomeException;
-import by.hardziyevich.task2.validator.Validator;
+
+import java.util.Arrays;
 
 @FunctionalInterface
 public interface InterpreterCandies {
@@ -13,7 +14,6 @@ public interface InterpreterCandies {
         INGREDIENT("ingredient"),
         CARAMEL("tns:Caramel"),
         CHOCOLATE("tns:Chocolate"),
-        CHOCOLATE_FILLING("tns:Chocolate-filling"),
         //tag
         ID("id"),
         ENERGY("energy"),
@@ -37,13 +37,10 @@ public interface InterpreterCandies {
 
 
         public static CandyXmlTag convert(String value) {
-            CandyXmlTag current = null;
-            for (CandyXmlTag candy : CandyXmlTag.values()) {
-                if (candy.getTag().equals(value)) {
-                    current = candy;
-                }
-            }
-            return current;
+            return Arrays.stream(CandyXmlTag.values())
+                    .filter(x -> x.getTag().equals(value))
+                    .findFirst()
+                    .orElse(null);
         }
     }
 }

@@ -14,7 +14,6 @@ class InterpreterCandiesTest {
         assertAll(() -> {
             assertThat(CARAMEL,equalTo(convert("tns:Caramel")));
             assertThat(CHOCOLATE,equalTo(convert("tns:Chocolate")));
-            assertThat(CHOCOLATE_FILLING,equalTo(convert("tns:Chocolate-filling")));
             assertThat(INGREDIENT,equalTo(convert("ingredient")));
             assertThat(ID,equalTo(convert("id")));
             assertThat(ENERGY,equalTo(convert("energy")));

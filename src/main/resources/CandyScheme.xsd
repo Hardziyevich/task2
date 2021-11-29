@@ -4,18 +4,24 @@
         xmlns:tns="http://www.example.org/entity">
 
 
-    <simpleType name="CandyType">
+    <simpleType name="ChocolateCandyType">
         <restriction base="string">
-            <enumeration value="caramel"/>
-            <enumeration value="chocolate"/>
             <enumeration value="chocolate-filling"/>
+            <enumeration value="chocolate"/>
         </restriction>
     </simpleType>
 
-    <simpleType name="ChocolateType">
+    <simpleType name="ChocolateFillingType">
         <restriction base="string">
             <enumeration value="white"/>
             <enumeration value="not-white"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="CaramelCandyType">
+        <restriction base="string">
+            <enumeration value="candy"/>
+            <enumeration value="glaze"/>
         </restriction>
     </simpleType>
 
@@ -24,7 +30,6 @@
         <attribute name="sugar" use="required" type="tns:milligrams"/>
         <attribute name="fructose" use="required" type="tns:milligrams"/>
         <attribute name="vanilla" use="required" type="tns:milligrams"/>
-<!--        <attribute name="chocolate-type" use="optional" type="tns:ChocolateType" default="unknown"/>-->
     </complexType>
 
     <complexType name="NutritionalValueImpl">
@@ -64,7 +69,7 @@
     <complexType name="CaramelCandy">
         <complexContent>
             <extension base="tns:Candy">
-                <attribute name="candy-type" type="tns:CandyType" use="required" fixed="caramel"/>
+                <attribute name="candy-type" type="tns:CaramelCandyType" use="required"/>
             </extension>
         </complexContent>
     </complexType>
@@ -72,7 +77,8 @@
     <complexType name="ChocolateCandy">
         <complexContent>
             <extension base="tns:Candy">
-                <attribute name="candy-type" type="tns:CandyType" use="required"/>
+                <attribute name="chocolate" type="tns:ChocolateCandyType" use="required"/>
+                <attribute name="chocolate-filling" type="tns:ChocolateFillingType" use="optional"/>
             </extension>
         </complexContent>
     </complexType>

@@ -3,6 +3,7 @@ package by.hardziyevich.task2.interpreter.impl;
 import by.hardziyevich.task2.exeption.SomeException;
 import by.hardziyevich.task2.interpreter.InterpreterCandies;
 import by.hardziyevich.task2.validator.Validator;
+import by.hardziyevich.task2.validator.ValidatorData;
 
 public class NutritionalValueImpl implements InterpreterCandies {
     private int fat;
@@ -39,16 +40,13 @@ public class NutritionalValueImpl implements InterpreterCandies {
         tag = Validator.of(tag).get();
         switch (tag) {
             case "fat":
-                data = Validator.of(data).validate(d -> d.matches(REG_INTEGER), "It isn`t integer digit").get();
-                fat = Integer.parseInt(data);
+                fat = ValidatorData.of(data).getInteger(REG_INTEGER,fat);
                 break;
             case "protein":
-                data = Validator.of(data).validate(d -> d.matches(REG_INTEGER), "It isn`t integer digit").get();
-                protein = Integer.parseInt(data);
+                protein = ValidatorData.of(data).getInteger(REG_INTEGER,protein);
                 break;
             case "carb":
-                data = Validator.of(data).validate(d -> d.matches(REG_INTEGER), "It isn`t integer digit").get();
-                carb = Integer.parseInt(data);
+                carb = ValidatorData.of(data).getInteger(REG_INTEGER,carb);
                 break;
         }
     }

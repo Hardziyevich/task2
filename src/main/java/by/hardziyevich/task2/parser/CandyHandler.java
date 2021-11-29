@@ -1,8 +1,8 @@
 package by.hardziyevich.task2.parser;
 
-import by.hardziyevich.task2.entity.impl.Candy;
-import by.hardziyevich.task2.entity.impl.CaramelCandy;
-import by.hardziyevich.task2.entity.impl.ChocolateCandy;
+import by.hardziyevich.task2.entity.Candy;
+import by.hardziyevich.task2.entity.CaramelCandy;
+import by.hardziyevich.task2.entity.ChocolateCandy;
 import by.hardziyevich.task2.exeption.SomeException;
 import by.hardziyevich.task2.interpreter.InterpreterCandies;
 import by.hardziyevich.task2.interpreter.impl.IngredientImpl;
@@ -38,20 +38,20 @@ public class CandyHandler extends DefaultHandler {
         if (currentTag != null) {
             switch (currentTag) {
                 case CARAMEL:
-                case CHOCOLATE: {
+                case CHOCOLATE:
                     builder = new Builder();
                     interpreterCandies = builder;
                     readAttributes(attributes);
                     break;
-                }
                 case INGREDIENT: {
-                    builder.setProperty(new IngredientImpl());
+                    builder.ingredient(new IngredientImpl());
                         readAttributes(attributes);
                     break;
                 }
-                case VALUE:
-                    builder.setProperty(new NutritionalValueImpl());
+                case VALUE: {
+                    builder.nutritionalValue(new NutritionalValueImpl());
                     break;
+                }
             }
         }
     }

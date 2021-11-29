@@ -18,18 +18,18 @@ class CandyParserTest {
 
     @BeforeAll
     void init(){
-        URL is = getClass().getClassLoader().getResource("test.xml");
+        URL is = getClass().getClassLoader().getResource("Candy.xml");
         File file = new File(is.getFile());
         path = file.toPath();
     }
 
     @Test
-    void testParser() throws SomeException {
+    void testParser(){
         CandyParser parser = new CandyParser();
         assertAll(()->{
             assertNotNull(parser.parse(path));
-            assertThrows(IllegalStateException.class,()->parser.parse(Path.of(".txt")));
-            assertThrows(NullPointerException.class,()->parser.parse(null));
+            assertThrows(SomeException.class,()->parser.parse(Path.of(".txt")));
+            assertThrows(SomeException.class,()->parser.parse(null));
         });
     }
 }

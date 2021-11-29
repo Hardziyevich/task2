@@ -1,10 +1,9 @@
 package by.hardziyevich.task2.parser;
 
-import by.hardziyevich.task2.entity.impl.Candy;
+import by.hardziyevich.task2.entity.Candy;
 import by.hardziyevich.task2.exeption.SomeException;
 import by.hardziyevich.task2.validator.Validator;
 import org.xml.sax.SAXException;
-import org.xml.sax.helpers.DefaultHandler;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;

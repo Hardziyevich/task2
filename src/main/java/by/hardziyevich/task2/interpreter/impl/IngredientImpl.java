@@ -3,8 +3,9 @@ package by.hardziyevich.task2.interpreter.impl;
 import by.hardziyevich.task2.exeption.SomeException;
 import by.hardziyevich.task2.interpreter.InterpreterCandies;
 import by.hardziyevich.task2.validator.Validator;
+import by.hardziyevich.task2.validator.ValidatorData;
 
-import static by.hardziyevich.task2.interpreter.InterpreterCandies.*;
+import java.util.Optional;
 
 public class IngredientImpl implements InterpreterCandies {
     private double water;
@@ -51,20 +52,16 @@ public class IngredientImpl implements InterpreterCandies {
         tag = Validator.of(tag).get();
         switch (tag) {
             case "water":
-                data = Validator.of(data).validate(d -> d.matches(REG_DOUBLE), "It isn`t double digit").get();
-                water = Double.parseDouble(data);
+                water = ValidatorData.of(data).getDouble(REG_DOUBLE,water);
                 break;
             case "sugar":
-                data = Validator.of(data).validate(d -> d.matches(REG_DOUBLE), "It isn`t double digit").get();
-                sugar = Double.parseDouble(data);
+                sugar = ValidatorData.of(data).getDouble(REG_DOUBLE,sugar);
                 break;
             case "fructose":
-                data = Validator.of(data).validate(d -> d.matches(REG_DOUBLE), "It isn`t double digit").get();
-                fructose = Double.parseDouble(data);
+                fructose = ValidatorData.of(data).getDouble(REG_DOUBLE,fructose);
                 break;
             case "vanilla":
-                data = Validator.of(data).validate(d -> d.matches(REG_DOUBLE), "It isn`t double digit").get();
-                vanilla = Double.parseDouble(data);
+                vanilla = ValidatorData.of(data).getDouble(REG_DOUBLE,vanilla);
                 break;
         }
     }
