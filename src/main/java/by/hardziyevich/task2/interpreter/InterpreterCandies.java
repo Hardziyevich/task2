@@ -12,8 +12,8 @@ public interface InterpreterCandies {
     enum CandyXmlTag {
         //attribute
         INGREDIENT("ingredient"),
-        CARAMEL("tns:Caramel"),
-        CHOCOLATE("tns:Chocolate"),
+        CARAMEL("Caramel"),
+        CHOCOLATE("Chocolate"),
         //tag
         ID("id"),
         ENERGY("energy"),

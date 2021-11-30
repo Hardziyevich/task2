@@ -22,10 +22,15 @@ import static by.hardziyevich.task2.interpreter.PropertyCandy.*;
 
 public class CandyHandler extends DefaultHandler {
     private static final Logger log = LoggerFactory.getLogger(CandyHandler.class);
+    private List<Candy> candies;
     private Builder builder;
     private InterpreterCandies interpreterCandies;
     private CandyXmlTag currentTag;
-    private final List<Candy> candies = new ArrayList<>();
+
+    public CandyHandler(){
+        super();
+        candies = new ArrayList<>();
+    }
 
     @Override
     public void startDocument() throws SAXException {
@@ -87,8 +92,8 @@ public class CandyHandler extends DefaultHandler {
     }
 
     @Override
-    public void endDocument() {
-        candies.forEach(System.out::println);
+    public void endDocument() throws SAXException {
+        super.endDocument();
     }
 
     private void readAttributes(Attributes attributes){

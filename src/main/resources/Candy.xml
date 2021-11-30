@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:Entity xmlns:tns="http://www.example.org/entity"
+<Entity xmlns:tns="http://www.example.org/entity"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.example.org/entity CandyScheme.xsd">
 
 
-    <tns:Chocolate id="12" chocolate="chocolate-filling" chocolate-filling="not-white">
+    <Chocolate id="12" chocolate="chocolate-filling" chocolate-filling="not-white">
         <energy>10</energy>
         <name-candy>Alenka</name-candy>
         <production>Komunarka</production>
@@ -15,9 +15,9 @@
             <carb>1</carb>
         </value>
         <shelf-life>2002-05-30T09:00:00</shelf-life>
-    </tns:Chocolate>
+    </Chocolate>
 
-    <tns:Caramel id="13" candy-type="glaze">
+    <Caramel id="13" candy-type="glaze">
         <energy>14</energy>
         <name-candy>Mashka</name-candy>
         <production>Komunarka</production>
@@ -28,9 +28,9 @@
             <carb>123</carb>
         </value>
         <shelf-life>2002-05-30T09:00:00</shelf-life>
-    </tns:Caramel>
+    </Caramel>
 
-    <tns:Chocolate id="14" chocolate="chocolate">
+    <Chocolate id="14" chocolate="chocolate">
         <energy>153</energy>
         <name-candy>Pushka</name-candy>
         <production>Komunarka</production>
@@ -41,7 +41,7 @@
             <carb>13</carb>
         </value>
         <shelf-life>2002-05-30T09:00:00</shelf-life>
-    </tns:Chocolate>
+    </Chocolate>
 
 
-</tns:Entity>
+</Entity>

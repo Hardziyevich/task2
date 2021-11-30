@@ -13929,3 +13929,929 @@ by.hardziyevich.task2.exeption.SomeException
 		at by.hardziyevich.task2.validator.Validator.validate(Validator.java:42)
 		... 109 more
 [2021-11-29 23:29:34,072] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-30 21:27:31,066] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,071] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 21:27:31,071] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 21:27:31,072] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 21:27:31,074] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,076] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-30 21:27:31,077] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,077] INFO [by.hardziyevich.task2.validator.Validator: 49] `12`12` is correct
+[2021-11-30 21:27:31,102] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,103] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,103] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,104] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,105] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-30 21:27:31,106] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,107] INFO [by.hardziyevich.task2.validator.Validator: 49] `12`12` is correct
+[2021-11-30 21:27:31,109] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 21:27:31,111] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 21:27:31,112] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 21:27:31,113] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 21:27:31,113] INFO [by.hardziyevich.task2.validator.Validator: 49] pasha is correct
+[2021-11-30 21:27:31,114] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 21:27:31,114] INFO [by.hardziyevich.task2.validator.Validator: 49] pasha is correct
+[2021-11-30 21:27:31,115] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 21:27:31,115] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 21:27:31,123] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-30 21:27:31,123] INFO [by.hardziyevich.task2.validator.Validator: 49] randomData is correct
+[2021-11-30 21:27:31,133] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\build\resources\main\Candy.xml is correct
+[2021-11-30 21:27:31,158] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 21:27:31,159] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 21:27:31,160] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 21:27:31,160] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 21:27:31,161] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Chocolate is correct
+[2021-11-30 21:27:31,162] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 21:27:31,162] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 21:27:31,163] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 21:27:31,163] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 21:27:31,164] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 21:27:31,164] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,165] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,165] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 21:27:31,166] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 21:27:31,166] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 21:27:31,167] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 21:27:31,167] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 21:27:31,168] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 21:27:31,168] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,169] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,169] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,170] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,170] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,171] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,171] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,172] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,173] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,173] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,174] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,174] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,175] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 21:27:31,175] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 21:27:31,177] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 21:27:31,178] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 21:27:31,178] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 21:27:31,179] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Caramel is correct
+[2021-11-30 21:27:31,180] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 21:27:31,180] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 21:27:31,181] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 21:27:31,182] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 21:27:31,182] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 21:27:31,183] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,183] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,184] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 21:27:31,184] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 21:27:31,185] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 21:27:31,185] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 21:27:31,186] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 21:27:31,186] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 21:27:31,187] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,187] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,188] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,188] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,189] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,189] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,190] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,190] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,191] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,192] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,192] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,192] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,193] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 21:27:31,193] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 21:27:31,195] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 21:27:31,195] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 21:27:31,195] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 21:27:31,196] INFO [by.hardziyevich.task2.validator.Validator: 49] tns:Chocolate is correct
+[2021-11-30 21:27:31,196] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 21:27:31,197] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 21:27:31,197] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 21:27:31,198] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 21:27:31,198] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 21:27:31,199] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,199] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 21:27:31,200] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 21:27:31,200] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 21:27:31,201] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 21:27:31,201] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 21:27:31,202] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 21:27:31,202] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 21:27:31,203] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,203] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,204] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 21:27:31,204] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,205] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,205] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 21:27:31,206] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,206] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,206] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 21:27:31,207] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,207] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,208] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 21:27:31,209] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 21:27:31,209] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 21:27:31,211] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened File does not exists
+[2021-11-30 21:27:31,211] WARN [by.hardziyevich.task2.exeption.SomeException: 16] Something happened
+[2021-11-30 21:27:31,212] WARN [by.hardziyevich.task2.validator.Validator: 54] Something happened {1}
+by.hardziyevich.task2.exeption.SomeException
+	at by.hardziyevich.task2.validator.Validator.get(Validator.java:52)
+	at by.hardziyevich.task2.parser.CandySAXParser.parse(CandySAXParser.java:26)
+	at parser.CandySAXParserTest.lambda$testParser$0(CandySAXParserTest.java:31)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3082)
+	at parser.CandySAXParserTest.lambda$testParser$2(CandySAXParserTest.java:31)
+	at org.junit.jupiter.api.AssertAll.lambda$assertAll$0(AssertAll.java:68)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:77)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:44)
+	at org.junit.jupiter.api.AssertAll.assertAll(AssertAll.java:38)
+	at org.junit.jupiter.api.Assertions.assertAll(Assertions.java:2911)
+	at parser.CandySAXParserTest.testParser(CandySAXParserTest.java:29)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at com.sun.proxy.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:135)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	Suppressed: by.hardziyevich.task2.exeption.SomeException: File does not exists
+		at by.hardziyevich.task2.validator.Validator.validate(Validator.java:42)
+		... 109 more
+[2021-11-30 21:27:31,218] WARN [by.hardziyevich.task2.exeption.SomeException: 12] Something happened null
+[2021-11-30 21:27:38,071] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:30:21,796] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:31:46,376] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:34:58,583] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:36:23,012] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:37:25,153] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:39:45,431] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:40:10,343] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:46:00,352] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 21:47:21,039] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:02:18,433] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:03:34,786] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:05:59,941] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:08:17,654] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:08:17,662] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:08:17,663] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:08:17,666] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:08:17,667] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:08:17,669] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:08:17,669] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:08:17,669] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:08:17,670] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:08:17,671] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:08:17,671] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:09:40,411] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:15:25,789] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:15:25,797] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:15:25,798] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:15:25,802] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:15:25,803] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:15:25,804] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:15:25,804] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:15:25,808] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:15:25,808] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:15:25,808] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:15:25,808] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:15:25,809] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:15:25,809] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:15:25,811] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:15:25,811] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:15:25,811] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:15:25,813] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:15:25,813] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:15:25,813] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:15:25,814] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:15:25,814] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:15:25,814] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:15:25,814] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:15:25,814] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:15:25,815] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:15:25,815] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:15:25,816] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:15:25,816] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:15:25,816] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:15:25,816] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:15:25,817] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:15:25,817] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:15:25,817] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:15:25,817] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:15:25,817] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:20:16,160] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:20:16,169] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:20:16,170] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:20:16,174] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:20:16,174] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:22:12,645] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:22:12,678] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:22:12,682] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:22:12,687] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:22:12,688] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:25:47,167] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:25:47,185] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:25:47,187] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:25:47,192] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:25:47,192] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:25:47,193] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:25:47,196] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:25:47,197] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 22:25:47,197] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:25:47,197] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:25:47,199] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:25:47,199] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:25:47,207] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:25:47,209] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:25:47,211] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:25:47,211] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:25:47,213] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:25:47,213] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:25:47,214] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,214] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,214] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,215] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,215] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,215] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,216] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,216] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,216] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,217] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:25:47,217] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:25:47,218] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:25:47,219] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:25:47,219] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:25:47,219] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:25:47,220] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:25:47,220] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 22:25:47,220] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:25:47,220] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:25:47,220] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:25:47,221] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:25:47,221] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:25:47,221] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:25:47,221] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:25:47,221] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:25:47,222] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:25:47,222] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:25:47,222] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,222] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,222] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,223] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,223] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,223] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,223] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,224] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,224] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,224] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:25:47,224] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:25:47,225] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:25:47,225] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:25:47,226] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:25:47,226] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:25:47,226] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:25:47,226] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 22:25:47,227] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:25:47,227] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:25:47,227] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:25:47,227] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:25:47,227] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:25:47,228] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:25:47,228] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:25:47,228] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:25:47,228] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:25:47,228] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:25:47,229] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,229] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,229] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:25:47,230] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,230] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,230] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:25:47,230] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,230] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,231] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:25:47,231] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:25:47,231] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:28:53,922] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:28:53,931] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:28:53,935] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:28:53,936] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:28:53,937] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:28:53,938] INFO [by.hardziyevich.task2.validator.Validator: 49] Chocolate is correct
+[2021-11-30 22:28:53,939] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:28:53,941] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:28:53,941] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 22:28:53,941] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:28:53,941] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:28:53,942] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,943] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,946] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,946] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,947] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,948] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,948] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,949] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,949] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,950] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,950] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,950] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,950] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,950] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,951] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,951] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,951] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,952] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,952] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,952] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,952] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:28:53,952] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:28:53,955] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:28:53,955] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:28:53,955] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:28:53,956] INFO [by.hardziyevich.task2.validator.Validator: 49] Caramel is correct
+[2021-11-30 22:28:53,958] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:28:53,958] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:28:53,958] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 22:28:53,959] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:28:53,959] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:28:53,960] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,960] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,960] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,961] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,961] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,961] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,962] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,962] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,962] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,962] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,962] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,963] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,963] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,963] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,963] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,963] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,963] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,964] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,964] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,964] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,964] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:28:53,964] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:28:53,966] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:28:53,966] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:28:53,966] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:28:53,966] INFO [by.hardziyevich.task2.validator.Validator: 49] Chocolate is correct
+[2021-11-30 22:28:53,966] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:28:53,967] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:28:53,967] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 22:28:53,967] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:28:53,967] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:28:53,967] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,967] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,968] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,968] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,968] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,968] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,968] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,968] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,969] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,969] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,969] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:28:53,969] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,969] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,969] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,970] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,970] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,970] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,970] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,970] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,970] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,971] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:28:53,971] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:28:53,983] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:28:53,987] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:28:53,988] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:28:53,988] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:28:53,988] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:28:53,988] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:28:53,988] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:28:53,989] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 22:28:53,989] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:28:53,989] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:28:53,989] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,989] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,989] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,990] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,990] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,990] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,990] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,990] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,990] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,991] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,991] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,991] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,991] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,991] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,991] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,992] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,992] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,992] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:28:53,992] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:28:53,993] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:28:53,993] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:28:53,993] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:28:53,993] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:28:53,993] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:28:53,994] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 22:28:53,994] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:28:53,994] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:28:53,994] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,994] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,995] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,995] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,995] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,995] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,995] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,995] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,995] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,996] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:53,997] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:28:53,997] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:28:53,997] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:28:53,997] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:28:53,997] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:28:53,998] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:28:53,998] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:28:53,998] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 22:28:53,998] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:28:53,998] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:28:53,998] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,998] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:28:53,999] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,999] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:28:53,999] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,999] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:28:53,999] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,999] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:28:53,999] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:54,000] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:54,000] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:28:54,000] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:54,000] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:54,000] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:28:54,000] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:54,000] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:54,001] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:28:54,001] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:28:54,001] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:47:14,572] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:47:14,581] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:47:14,585] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:47:14,585] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:47:14,586] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:47:14,587] INFO [by.hardziyevich.task2.validator.Validator: 49] Chocolate is correct
+[2021-11-30 22:47:14,587] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:47:14,588] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:47:14,589] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 22:47:14,589] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:47:14,589] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:47:14,590] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,590] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,593] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,594] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,594] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,595] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,596] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,596] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,596] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,597] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,597] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,597] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,597] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,597] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,598] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,598] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,598] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,599] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,599] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,599] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,599] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:47:14,599] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:47:14,601] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:47:14,601] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:47:14,601] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:47:14,603] INFO [by.hardziyevich.task2.validator.Validator: 49] Caramel is correct
+[2021-11-30 22:47:14,603] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:47:14,603] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:47:14,603] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 22:47:14,604] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:47:14,604] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:47:14,604] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,604] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,604] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,605] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,605] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,605] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,605] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,606] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,606] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,607] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,607] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,607] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,607] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,607] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,608] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,608] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,608] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,608] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,608] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,608] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,609] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:47:14,609] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:47:14,610] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:47:14,610] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:47:14,610] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:47:14,610] INFO [by.hardziyevich.task2.validator.Validator: 49] Chocolate is correct
+[2021-11-30 22:47:14,610] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:47:14,610] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:47:14,611] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 22:47:14,611] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:47:14,611] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:47:14,611] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,611] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,611] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,612] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,612] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,612] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,612] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,612] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,613] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,613] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,613] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:47:14,613] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,613] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,613] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,614] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,614] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,614] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,614] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,614] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,614] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,615] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:47:14,615] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:47:14,628] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:47:14,631] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:47:14,632] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:47:14,632] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:47:14,632] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:47:14,632] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:47:14,632] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:47:14,633] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 22:47:14,633] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:47:14,633] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:47:14,633] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,633] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,633] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,634] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,634] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,634] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,634] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,634] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,634] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,634] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,635] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,635] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,635] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,635] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,635] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,635] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,635] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,636] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:47:14,636] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:47:14,636] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:47:14,637] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:47:14,637] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:47:14,637] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:47:14,637] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:47:14,637] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 22:47:14,637] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:47:14,637] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:47:14,638] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,638] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,638] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,638] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,638] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,638] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,638] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,639] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,639] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,639] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,639] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,639] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,639] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,639] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,640] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,640] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,640] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,640] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:47:14,640] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:47:14,640] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:47:14,641] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:47:14,641] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:47:14,641] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:47:14,641] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:47:14,641] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 22:47:14,641] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:47:14,641] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:47:14,642] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,642] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:47:14,642] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,642] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:47:14,642] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,642] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,643] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:47:14,644] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,644] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,644] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:47:14,644] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:47:14,644] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:48:20,979] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:48:20,987] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:48:20,991] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:48:20,992] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:48:20,993] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:48:20,993] INFO [by.hardziyevich.task2.validator.Validator: 49] Chocolate is correct
+[2021-11-30 22:48:20,994] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:48:20,995] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:48:20,995] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 22:48:20,996] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:48:20,996] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:48:20,996] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:20,997] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:20,999] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,000] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,000] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,001] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,002] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,002] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,003] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,003] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,004] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,004] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,004] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,005] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,005] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,006] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,006] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,006] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,006] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,006] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,007] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:48:21,007] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:48:21,009] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:48:21,010] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:48:21,010] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:48:21,011] INFO [by.hardziyevich.task2.validator.Validator: 49] Caramel is correct
+[2021-11-30 22:48:21,011] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:48:21,011] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:48:21,011] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 22:48:21,012] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:48:21,012] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:48:21,012] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,012] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,013] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,013] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,013] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,013] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,013] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,014] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,014] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,014] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,014] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,014] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,014] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,015] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,015] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,015] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,015] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,015] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,015] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,016] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,016] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:48:21,016] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:48:21,017] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:48:21,017] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:48:21,017] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:48:21,018] INFO [by.hardziyevich.task2.validator.Validator: 49] Chocolate is correct
+[2021-11-30 22:48:21,018] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:48:21,018] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:48:21,018] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 22:48:21,018] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:48:21,018] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:48:21,019] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,019] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,019] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,019] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,019] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,019] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,020] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,020] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,020] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,020] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,020] INFO [by.hardziyevich.task2.validator.Validator: 49] value is correct
+[2021-11-30 22:48:21,021] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,021] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,021] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,021] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,021] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,021] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,022] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,022] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,022] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,022] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:48:21,023] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:48:21,033] INFO [by.hardziyevich.task2.validator.Validator: 49] D:\TaskForEpam\task2\src\main\resources\Candy.xml is correct
+[2021-11-30 22:48:21,037] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate-filling is correct
+[2021-11-30 22:48:21,037] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:48:21,037] INFO [by.hardziyevich.task2.validator.Validator: 49] 12 is correct
+[2021-11-30 22:48:21,037] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:48:21,038] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:48:21,038] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:48:21,038] INFO [by.hardziyevich.task2.validator.Validator: 49] Alenka is correct
+[2021-11-30 22:48:21,038] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:48:21,039] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:48:21,039] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,039] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,039] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,039] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,039] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,040] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,040] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,040] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,040] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,040] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,040] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,040] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,041] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,041] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,041] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,041] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,041] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,041] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:48:21,041] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:48:21,042] INFO [by.hardziyevich.task2.validator.Validator: 49] candy-type is correct
+[2021-11-30 22:48:21,042] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:48:21,042] INFO [by.hardziyevich.task2.validator.Validator: 49] 13 is correct
+[2021-11-30 22:48:21,042] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:48:21,043] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:48:21,043] INFO [by.hardziyevich.task2.validator.Validator: 49] Mashka is correct
+[2021-11-30 22:48:21,043] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:48:21,043] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:48:21,043] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,043] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,044] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,045] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,045] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,045] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,045] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,045] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,045] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,045] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,046] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:48:21,046] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct
+[2021-11-30 22:48:21,046] INFO [by.hardziyevich.task2.validator.Validator: 49] id is correct
+[2021-11-30 22:48:21,046] INFO [by.hardziyevich.task2.validator.Validator: 49] 14 is correct
+[2021-11-30 22:48:21,046] INFO [by.hardziyevich.task2.validator.Validator: 49] chocolate is correct
+[2021-11-30 22:48:21,046] INFO [by.hardziyevich.task2.validator.Validator: 49] energy is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] name-candy is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] Pushka is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] production is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] Komunarka is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] fructose is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,047] INFO [by.hardziyevich.task2.validator.Validator: 49] water is correct
+[2021-11-30 22:48:21,048] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,048] INFO [by.hardziyevich.task2.validator.Validator: 49] sugar is correct
+[2021-11-30 22:48:21,048] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,048] INFO [by.hardziyevich.task2.validator.Validator: 49] vanilla is correct
+[2021-11-30 22:48:21,048] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,048] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,048] INFO [by.hardziyevich.task2.validator.Validator: 49] fat is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] protein is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] carb is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] shelf-life is correct
+[2021-11-30 22:48:21,049] INFO [by.hardziyevich.task2.validator.Validator: 49] 2002-05-30T09:00:00 is correct

@@ -1,7 +1,7 @@
 package parser;
 
 import by.hardziyevich.task2.exeption.SomeException;
-import by.hardziyevich.task2.parser.CandyParser;
+import by.hardziyevich.task2.parser.CandySAXParser;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
@@ -13,7 +13,7 @@ import java.nio.file.Path;
 import static org.junit.jupiter.api.Assertions.*;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-class CandyParserTest {
+class CandySAXParserTest {
     private Path path;
 
     @BeforeAll
@@ -25,7 +25,7 @@ class CandyParserTest {
 
     @Test
     void testParser(){
-        CandyParser parser = new CandyParser();
+        CandySAXParser parser = new CandySAXParser();
         assertAll(()->{
             assertNotNull(parser.parse(path));
             assertThrows(SomeException.class,()->parser.parse(Path.of(".txt")));
