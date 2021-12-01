@@ -16,9 +16,9 @@ import org.xml.sax.helpers.DefaultHandler;
 import java.util.ArrayList;
 import java.util.List;
 
-import static by.hardziyevich.task2.interpreter.InterpreterCandies.*;
-import static by.hardziyevich.task2.interpreter.InterpreterCandies.CandyXmlTag.*;
-import static by.hardziyevich.task2.interpreter.PropertyCandy.*;
+import static by.hardziyevich.task2.interpreter.InterpreterCandies.CandyXmlTag;
+import static by.hardziyevich.task2.interpreter.InterpreterCandies.CandyXmlTag.convert;
+import static by.hardziyevich.task2.interpreter.PropertyCandy.Builder;
 
 public class CandyHandler extends DefaultHandler {
     private static final Logger log = LoggerFactory.getLogger(CandyHandler.class);
@@ -84,7 +84,7 @@ public class CandyHandler extends DefaultHandler {
         String data = new String(ch, start, length).strip();
         if (currentTag != null) {
             try {
-                interpreterCandies.interpret(currentTag.getTag(), data);
+                interpreterCandies.interpret(currentTag.toString(), data);
             } catch (SomeException e) {
                 log.warn("Something happened ",e);
             }

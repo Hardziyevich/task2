@@ -4,9 +4,9 @@
             xsi:schemaLocation="http://www.example.org/entity CandyScheme.xsd">
 
 
-    <Chocolate id="12" chocolate="chocolate-filling" chocolate-filling="not-white">
+    <chocolate id="12" chocolate-type="chocolate-filling" chocolate-filling="not-white">
         <energy>10</energy>
-        <name-candy>Alenka</name-candy>
+        <name>Alenka</name>
         <production>Komunarka</production>
         <ingredient water="0.001" sugar="0.001" fructose="0.001" vanilla="0.001"/>
         <value>
@@ -14,12 +14,12 @@
             <protein>1</protein>
             <carb>1</carb>
         </value>
-        <shelf-life>2002-05-30T09:00:00</shelf-life>
-    </Chocolate>
+        <data>2002-05-30T09:00:00</data>
+    </chocolate>
 
-    <Caramel id="13" candy-type="glaze">
+    <caramel id="13" candy-type="glaze">
         <energy>14</energy>
-        <name-candy>Mashka</name-candy>
+        <name>Mashka</name>
         <production>Komunarka</production>
         <ingredient water="0.002" sugar="0.002" fructose="0.002" vanilla="0.002"/>
         <value>
@@ -27,12 +27,12 @@
             <protein>11</protein>
             <carb>123</carb>
         </value>
-        <shelf-life>2002-05-30T09:00:00</shelf-life>
-    </Caramel>
+        <data>2002-05-30T09:00:00</data>
+    </caramel>
 
-    <Chocolate id="14" chocolate="chocolate">
+    <chocolate id="14" chocolate-type="chocolate">
         <energy>153</energy>
-        <name-candy>Pushka</name-candy>
+        <name>Pushka</name>
         <production>Komunarka</production>
         <ingredient water="0.003" sugar="0.003" fructose="0.003" vanilla="0.003"/>
         <value>
@@ -40,8 +40,8 @@
             <protein>12</protein>
             <carb>13</carb>
         </value>
-        <shelf-life>2002-05-30T09:00:00</shelf-life>
-    </Chocolate>
+        <data>2002-05-30T09:00:00</data>
+    </chocolate>
 
 
 </Entity>

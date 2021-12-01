@@ -22,9 +22,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import static by.hardziyevich.task2.interpreter.InterpreterCandies.*;
+import static by.hardziyevich.task2.interpreter.InterpreterCandies.CandyXmlTag;
 import static by.hardziyevich.task2.interpreter.InterpreterCandies.CandyXmlTag.convert;
-import static by.hardziyevich.task2.interpreter.PropertyCandy.*;
+import static by.hardziyevich.task2.interpreter.PropertyCandy.Builder;
 
 public class CandyStAXParser extends CandyParser{
     private final List<Candy> candies;
@@ -71,7 +71,7 @@ public class CandyStAXParser extends CandyParser{
                                 if (currentTag != null) {
                                     try {
                                         XMLEvent dataEvent = reader.nextEvent();
-                                        interpreterCandies.interpret(currentTag.getTag(), dataEvent.asCharacters().getData());
+                                        interpreterCandies.interpret(currentTag.toString(), dataEvent.asCharacters().getData());
                                     } catch (SomeException e) {
                                         log.warn("Something happened ",e);
                                     }

@@ -15,12 +15,15 @@ public abstract class CandyParser {
     public abstract List<Candy> parse(Path path) throws SomeException;
 
     public List<Candy> mainParser(Path path) throws SomeException {
-        return parse(validator(path));
+        if(!validator(path)){
+            throw new SomeException();
+        }
+        return parse(path);
     }
 
-    public Path validator(Path path) throws SomeException {
+    public boolean validator(Path path) throws SomeException {
         return Validator.of(path)
                 .validate(x -> !x.endsWith(".xml"),"It isn`t xml")
-                .validate(x -> x.toFile().exists(),"File does not exists").get();
+                .validate(x -> x.toFile().exists(),"File does not exists").isCorrect();
     }
 }

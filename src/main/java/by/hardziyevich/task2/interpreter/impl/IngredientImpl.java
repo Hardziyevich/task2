@@ -5,8 +5,6 @@ import by.hardziyevich.task2.interpreter.InterpreterCandies;
 import by.hardziyevich.task2.validator.Validator;
 import by.hardziyevich.task2.validator.ValidatorData;
 
-import java.util.Optional;
-
 public class IngredientImpl implements InterpreterCandies {
     private double water;
     private double sugar;
@@ -49,19 +47,21 @@ public class IngredientImpl implements InterpreterCandies {
 
     @Override
     public void interpret(String tag, String data) throws SomeException {
-        tag = Validator.of(tag).get();
+        if (Validator.of(tag).isCorrect()) {
+            throw new SomeException(tag + "is null!");
+        }
         switch (tag) {
             case "water":
-                water = ValidatorData.of(data).getDouble(REG_DOUBLE,water);
+                water = ValidatorData.of(data).getDouble(REG_DOUBLE, water);
                 break;
             case "sugar":
-                sugar = ValidatorData.of(data).getDouble(REG_DOUBLE,sugar);
+                sugar = ValidatorData.of(data).getDouble(REG_DOUBLE, sugar);
                 break;
             case "fructose":
-                fructose = ValidatorData.of(data).getDouble(REG_DOUBLE,fructose);
+                fructose = ValidatorData.of(data).getDouble(REG_DOUBLE, fructose);
                 break;
             case "vanilla":
-                vanilla = ValidatorData.of(data).getDouble(REG_DOUBLE,vanilla);
+                vanilla = ValidatorData.of(data).getDouble(REG_DOUBLE, vanilla);
                 break;
         }
     }

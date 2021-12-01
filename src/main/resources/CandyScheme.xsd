@@ -57,11 +57,11 @@
     <complexType name="Candy">
         <sequence>
             <element name="energy" type="int"/>
-            <element name="name-candy" type="string"/>
+            <element name="name" type="string"/>
             <element name="production" type="string"/>
             <element name="ingredient" type="tns:IngredientImpl"/>
             <element name="value" type="tns:NutritionalValueImpl"/>
-            <element name="shelf-life" type="dateTime"/>
+            <element name="data" type="dateTime"/>
         </sequence>
         <attribute name="id" use="required" type="tns:CandyId"/>
     </complexType>
@@ -77,22 +77,22 @@
     <complexType name="ChocolateCandy">
         <complexContent>
             <extension base="tns:Candy">
-                <attribute name="chocolate" type="tns:ChocolateCandyType" use="required"/>
+                <attribute name="chocolate-type" type="tns:ChocolateCandyType" use="required"/>
                 <attribute name="chocolate-filling" type="tns:ChocolateFillingType" use="optional"/>
             </extension>
         </complexContent>
     </complexType>
 
-    <element name="Candies" type="tns:Candy" abstract="true"></element>
+    <element name="candies" type="tns:Candy" abstract="true"></element>
 
-    <element name="Caramel" type="tns:CaramelCandy" substitutionGroup="tns:Candies"></element>
+    <element name="caramel" type="tns:CaramelCandy" substitutionGroup="tns:candies"></element>
 
-    <element name="Chocolate" type="tns:ChocolateCandy" substitutionGroup="tns:Candies"></element>
+    <element name="chocolate" type="tns:ChocolateCandy" substitutionGroup="tns:candies"></element>
 
     <element name="Entity">
         <complexType>
             <sequence>
-                <element ref="tns:Candies" maxOccurs="unbounded"></element>
+                <element ref="tns:candies" maxOccurs="unbounded"></element>
             </sequence>
         </complexType>
     </element>

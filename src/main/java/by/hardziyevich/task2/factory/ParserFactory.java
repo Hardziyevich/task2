@@ -12,12 +12,13 @@ public class ParserFactory {
     }
 
     public enum TypeParser {
+        DOM,
         StAX,
         SAX
     }
 
     public static CandyParser newCandyParser(TypeParser type) throws SomeException {
-        switch (Validator.of(type).get()) {
+        switch (type) {
             case SAX:
                 return new CandySAXParser();
             case StAX:

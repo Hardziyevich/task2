@@ -1,23 +1,22 @@
 package by.hardziyevich.task2.entity;
 
-import by.hardziyevich.task2.entity.impl.CaramelCandyTypeImpl;
 import by.hardziyevich.task2.interpreter.PropertyCandy;
 
 
 public class CaramelCandy extends Candy {
 
-    private CaramelCandyTypeImpl caramelType;
+    private CaramelCandyType caramelType;
 
     public CaramelCandy(PropertyCandy propertyCandy) {
         super(propertyCandy);
         caramelType = propertyCandy.getCaramelCandyType();
     }
 
-    public CaramelCandyTypeImpl getCaramelType() {
+    public CaramelCandyType getCaramelType() {
         return caramelType;
     }
 
-    public void setCaramelType(CaramelCandyTypeImpl caramelType) {
+    public void setCaramelType(CaramelCandyType caramelType) {
         this.caramelType = caramelType;
     }
 

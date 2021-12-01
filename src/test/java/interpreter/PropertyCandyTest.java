@@ -15,9 +15,9 @@ class PropertyCandyTest {
         Builder builder = new Builder();
         builder.interpret("id","14");
         builder.interpret("energy","114");
-        builder.interpret("name-candy","pasha");
+        builder.interpret("name","pasha");
         builder.interpret("production","pasha");
-        builder.interpret("shelf-life","2002-05-30T09:00:00");
+        builder.interpret("data","2002-05-30T09:00:00");
         PropertyCandy build = builder.build();
         System.out.println(build.getShelfLife());
         assertAll(()->{

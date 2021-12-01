@@ -37,18 +37,20 @@ public class NutritionalValueImpl implements InterpreterCandies {
 
     @Override
     public void interpret(String tag, String data) throws SomeException {
-        tag = Validator.of(tag).get();
-        switch (tag) {
-            case "fat":
-                fat = ValidatorData.of(data).getInteger(REG_INTEGER,fat);
-                break;
-            case "protein":
-                protein = ValidatorData.of(data).getInteger(REG_INTEGER,protein);
-                break;
-            case "carb":
-                carb = ValidatorData.of(data).getInteger(REG_INTEGER,carb);
-                break;
+        if(!Validator.of(tag).isCorrect()) {
+            throw new SomeException(tag + "is null!");
         }
+            switch (tag) {
+                case "fat":
+                    fat = ValidatorData.of(data).getInteger(REG_INTEGER, fat);
+                    break;
+                case "protein":
+                    protein = ValidatorData.of(data).getInteger(REG_INTEGER, protein);
+                    break;
+                case "carb":
+                    carb = ValidatorData.of(data).getInteger(REG_INTEGER, carb);
+                    break;
+            }
     }
 
     @Override

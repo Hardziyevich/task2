@@ -11,36 +11,33 @@ public interface InterpreterCandies {
 
     enum CandyXmlTag {
         //attribute
-        INGREDIENT("ingredient"),
-        CARAMEL("Caramel"),
-        CHOCOLATE("Chocolate"),
+        INGREDIENT,
+        CARAMEL,
+        CHOCOLATE,
         //tag
-        ID("id"),
-        ENERGY("energy"),
-        NAME_CANDY("name-candy"),
-        PRODUCTION("production"),
-        VALUE("value"),
-        FAT("fat"),
-        PROTEIN("protein"),
-        CARB("carb"),
-        SHELF_LIFE("shelf-life");
-
-        private final String tag;
-
-        CandyXmlTag(final String tag) {
-            this.tag = tag;
-        }
-
-        public String getTag() {
-            return tag;
-        }
-
+        ID,
+        ENERGY,
+        NAME,
+        PRODUCTION,
+        VALUE,
+        FAT,
+        PROTEIN,
+        CARB,
+        DATA;
 
         public static CandyXmlTag convert(String value) {
             return Arrays.stream(CandyXmlTag.values())
-                    .filter(x -> x.getTag().equals(value))
+                    .filter(x -> x.toString().equals(value))
                     .findFirst()
                     .orElse(null);
         }
+
+        @Override
+        public String toString() {
+            String result = this.name();
+            result = result.toLowerCase();
+            return result;
+        }
+
     }
 }

@@ -12,18 +12,18 @@ class InterpreterCandiesTest {
     @Test
     void testConvert() {
         assertAll(() -> {
-            assertThat(CARAMEL,equalTo(convert("tns:Caramel")));
-            assertThat(CHOCOLATE,equalTo(convert("tns:Chocolate")));
+            assertThat(CARAMEL,equalTo(convert("caramel")));
+            assertThat(CHOCOLATE,equalTo(convert("chocolate")));
             assertThat(INGREDIENT,equalTo(convert("ingredient")));
             assertThat(ID,equalTo(convert("id")));
             assertThat(ENERGY,equalTo(convert("energy")));
-            assertThat(NAME_CANDY,equalTo(convert("name-candy")));
+            assertThat(NAME,equalTo(convert("name")));
             assertThat(PRODUCTION,equalTo(convert("production")));
             assertThat(VALUE,equalTo(convert("value")));
             assertThat(FAT,equalTo(convert("fat")));
             assertThat(PROTEIN,equalTo(convert("protein")));
             assertThat(CARB,equalTo(convert("carb")));
-            assertThat(SHELF_LIFE,equalTo(convert("shelf-life")));
+            assertThat(DATA,equalTo(convert("data")));
             assertNull(convert(null));
         });
     }
