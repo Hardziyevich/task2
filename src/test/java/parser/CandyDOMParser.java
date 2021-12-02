@@ -3,7 +3,6 @@ package parser;
 import by.hardziyevich.task2.exeption.SomeException;
 import by.hardziyevich.task2.factory.ParserBuilderFactory;
 import by.hardziyevich.task2.parser.CandyParser;
-import by.hardziyevich.task2.parser.CandySAXParser;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
@@ -13,11 +12,11 @@ import java.net.URL;
 import java.nio.file.Path;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-class CandySAXParserTest {
+public class CandyDOMParser {
     private Path path;
-
     @BeforeAll
     void init(){
         URL is = getClass().getClassLoader().getResource("Candy.xml");
@@ -27,7 +26,7 @@ class CandySAXParserTest {
 
     @Test
     void testParser() throws SomeException {
-        CandyParser parser = ParserBuilderFactory.newParserBuilder(ParserBuilderFactory.TypeParser.StAX);
+        CandyParser parser = ParserBuilderFactory.newParserBuilder(ParserBuilderFactory.TypeParser.DOM);
         assertAll(()->{
             assertNotNull(parser.parse(path));
             assertNotNull(parser.mainParseCandy(path));

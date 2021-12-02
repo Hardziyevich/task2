@@ -13,11 +13,11 @@ import java.net.URL;
 import java.nio.file.Path;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-class CandySAXParserTest {
+public class CandyStAXParser {
     private Path path;
-
     @BeforeAll
     void init(){
         URL is = getClass().getClassLoader().getResource("Candy.xml");
@@ -35,4 +35,5 @@ class CandySAXParserTest {
             assertThrows(SomeException.class,()->parser.mainParseCandy(null));
         });
     }
+
 }

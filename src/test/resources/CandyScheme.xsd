@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.org/entity"
+        xmlns:tns="http://www.example.org/entity">
+
+
+    <simpleType name="ChocolateCandyType">
+        <restriction base="string">
+            <enumeration value="chocolate-filling"/>
+            <enumeration value="chocolate"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="ChocolateFillingType">
+        <restriction base="string">
+            <enumeration value="white"/>
+            <enumeration value="not-white"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="CaramelCandyType">
+        <restriction base="string">
+            <enumeration value="candy"/>
+            <enumeration value="glaze"/>
+        </restriction>
+    </simpleType>
+
+    <complexType name="IngredientImpl">
+        <attribute name="water" use="required" type="tns:milligrams"/>
+        <attribute name="sugar" use="required" type="tns:milligrams"/>
+        <attribute name="fructose" use="required" type="tns:milligrams"/>
+        <attribute name="vanilla" use="required" type="tns:milligrams"/>
+    </complexType>
+
+    <complexType name="NutritionalValueImpl">
+        <sequence>
+            <element name="fat" type="int" />
+            <element name="protein" type="int"/>
+            <element name="carb" type="int"/>
+        </sequence>
+    </complexType>
+
+    <simpleType name="CandyId">
+        <restriction base="long">
+            <pattern value="\d{2}"/>
+            <minExclusive value="0"/>
+        </restriction>
+    </simpleType>
+
+    <simpleType name="milligrams">
+        <restriction base="double">
+            <pattern value="\d[.](\d{3})"/>
+            <maxExclusive value="0.999"/>
+        </restriction>
+    </simpleType>
+
+    <complexType name="Candy">
+        <sequence>
+            <element name="energy" type="int"/>
+            <element name="name" type="string"/>
+            <element name="production" type="string"/>
+            <element name="ingredient" type="tns:IngredientImpl"/>
+            <element name="value" type="tns:NutritionalValueImpl"/>
+            <element name="data" type="dateTime"/>
+        </sequence>
+        <attribute name="id" use="required" type="tns:CandyId"/>
+    </complexType>
+
+    <complexType name="CaramelCandy">
+        <complexContent>
+            <extension base="tns:Candy">
+                <attribute name="candy-type" type="tns:CaramelCandyType" use="required"/>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="ChocolateCandy">
+        <complexContent>
+            <extension base="tns:Candy">
+                <attribute name="chocolate-type" type="tns:ChocolateCandyType" use="required"/>
+                <attribute name="chocolate-filling" type="tns:ChocolateFillingType" use="optional"/>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <element name="candies" type="tns:Candy" abstract="true"></element>
+
+    <element name="caramel" type="tns:CaramelCandy" substitutionGroup="tns:candies"></element>
+
+    <element name="chocolate" type="tns:ChocolateCandy" substitutionGroup="tns:candies"></element>
+
+    <element name="Entity">
+        <complexType>
+            <sequence>
+                <element ref="tns:candies" maxOccurs="unbounded"></element>
+            </sequence>
+        </complexType>
+    </element>
+
+</schema>
