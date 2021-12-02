@@ -47,8 +47,8 @@ public class IngredientImpl implements InterpreterCandies {
 
     @Override
     public void interpret(String tag, String data) throws SomeException {
-        if (Validator.of(tag).isCorrect()) {
-            throw new SomeException(tag + "is null!");
+        if (!Validator.of(tag).isCorrect()) {
+            throw new SomeException(tag + " is null!");
         }
         switch (tag) {
             case "water":

@@ -4,7 +4,7 @@ import by.hardziyevich.task2.interpreter.PropertyCandy;
 import by.hardziyevich.task2.interpreter.impl.IngredientImpl;
 import by.hardziyevich.task2.interpreter.impl.NutritionalValueImpl;
 
-import java.util.Date;
+import java.time.LocalDateTime;
 
 public abstract class Candy {
     private final long id;
@@ -13,7 +13,7 @@ public abstract class Candy {
     private final String production;
     private final NutritionalValueImpl nutritionalValue;
     private final IngredientImpl ingredient;
-    private final Date shelfLife;
+    private final LocalDateTime shelfLife;
 
     public long getId() {
         return id;
@@ -31,7 +31,7 @@ public abstract class Candy {
         return production;
     }
 
-    public Date getShelfLife() {
+    public LocalDateTime getShelfLife() {
         return shelfLife;
     }
 

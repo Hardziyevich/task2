@@ -26,7 +26,7 @@ import static by.hardziyevich.task2.interpreter.InterpreterCandies.CandyXmlTag;
 import static by.hardziyevich.task2.interpreter.InterpreterCandies.CandyXmlTag.convert;
 import static by.hardziyevich.task2.interpreter.PropertyCandy.Builder;
 
-public class CandyStAXParser extends CandyParser{
+public class CandyStAXParser extends CandyParser {
     private final List<Candy> candies;
     private final XMLInputFactory inputFactory;
     private Builder builder;
@@ -42,12 +42,12 @@ public class CandyStAXParser extends CandyParser{
 
     public List<Candy> parse(Path path) throws SomeException {
         XMLEventReader reader;
-        try(FileInputStream inputStream = new FileInputStream(path.toFile())) {
+        try (FileInputStream inputStream = new FileInputStream(path.toFile())) {
             reader = inputFactory.createXMLEventReader(inputStream);
             XMLEvent event;
-            while (reader.hasNext()){
+            while (reader.hasNext()) {
                 event = reader.nextEvent();
-                if(event.isStartElement()){
+                if (event.isStartElement()) {
                     StartElement startElement = event.asStartElement();
                     currentTag = convert((startElement.getName().getLocalPart()));
                     if (currentTag != null) {
@@ -73,13 +73,13 @@ public class CandyStAXParser extends CandyParser{
                                         XMLEvent dataEvent = reader.nextEvent();
                                         interpreterCandies.interpret(currentTag.toString(), dataEvent.asCharacters().getData());
                                     } catch (SomeException e) {
-                                        log.warn("Something happened ",e);
+                                        log.warn("Something happened ", e);
                                     }
                                 }
                                 break;
                         }
                     }
-                } else if(event.isEndElement()){
+                } else if (event.isEndElement()) {
                     EndElement endElement = event.asEndElement();
                     CandyXmlTag closeTag = convert(endElement.getName().getLocalPart());
                     if (closeTag != null) {
@@ -96,7 +96,6 @@ public class CandyStAXParser extends CandyParser{
                     }
                     currentTag = null;
                 }
-
             }
         } catch (IOException | XMLStreamException e) {
             throw new SomeException(e.getMessage());
@@ -104,14 +103,13 @@ public class CandyStAXParser extends CandyParser{
         return candies;
     }
 
-    private void readAttributes(StartElement startElement){
+    private void readAttributes(StartElement startElement) {
         for (Iterator<Attribute> it = startElement.getAttributes(); it.hasNext(); ) {
             Attribute attribute = it.next();
-            System.out.println(attribute.getName().getLocalPart());
             try {
                 interpreterCandies.interpret(attribute.getName().getLocalPart(), attribute.getValue());
             } catch (SomeException e) {
-                log.warn("Something happened ",e);
+                log.warn("Something happened ", e);
             }
         }
     }

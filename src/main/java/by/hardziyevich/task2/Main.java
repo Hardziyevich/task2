@@ -1,22 +1,21 @@
 package by.hardziyevich.task2;
 
 import by.hardziyevich.task2.exeption.SomeException;
-import by.hardziyevich.task2.parser.CandyDOMParser;
 import by.hardziyevich.task2.parser.CandyParser;
 
 import java.nio.file.Path;
 
-import static by.hardziyevich.task2.factory.ParserFactory.*;
-import static by.hardziyevich.task2.factory.ParserFactory.TypeParser.*;
+import static by.hardziyevich.task2.factory.ParserBuilderFactory.*;
+import static by.hardziyevich.task2.factory.ParserBuilderFactory.TypeParser.*;
 
 public class Main {
 
     public static void main(String[] args) throws SomeException {
-//        CandyParser parser = newCandyParser(SAX);
-//        parser.mainParser(Path.of("D:\\TaskForEpam\\task2\\src\\main\\resources\\Candy.xml")).forEach(System.out::println);
-//        parser = newCandyParser(StAX);
-//        parser.mainParser(Path.of("D:\\TaskForEpam\\task2\\src\\main\\resources\\Candy.xml")).forEach(System.out::println);
-        CandyParser parser = new CandyDOMParser();
-        parser.mainParser(Path.of("D:\\TaskForEpam\\task2\\src\\main\\resources\\Candy.xml")).forEach(System.out::println);
+        CandyParser parser = newParserBuilder(SAX);
+        parser.mainParseCandy(Path.of("C:\\work\\task2\\src\\main\\resources\\Candy.xml")).forEach(System.out::println);
+        parser = newParserBuilder(StAX);
+        parser.mainParseCandy(Path.of("C:\\work\\task2\\src\\main\\resources\\Candy.xml")).forEach(System.out::println);
+        parser = newParserBuilder(DOM);
+        parser.mainParseCandy(Path.of("C:\\work\\task2\\src\\main\\resources\\Candy.xml")).forEach(System.out::println);
     }
 }

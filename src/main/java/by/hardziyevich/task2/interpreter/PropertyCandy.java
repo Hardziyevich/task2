@@ -9,9 +9,7 @@ import by.hardziyevich.task2.interpreter.impl.NutritionalValueImpl;
 import by.hardziyevich.task2.validator.Validator;
 import by.hardziyevich.task2.validator.ValidatorData;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.time.LocalDateTime;
 import java.util.regex.MatchResult;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -26,7 +24,7 @@ public final class PropertyCandy {
     private final CaramelCandyType caramelCandyType;
     private final ChocolateCandyType chocolateCandyType;
     private final ChocolateFillingType chocolateFillingType;
-    private final Date shelfLife;
+    private final LocalDateTime shelfLife;
 
     private PropertyCandy(Builder builder) {
         this.id = builder.id;
@@ -65,7 +63,7 @@ public final class PropertyCandy {
         return nutritionalValue;
     }
 
-    public Date getShelfLife() {
+    public LocalDateTime getShelfLife() {
         return shelfLife;
     }
 
@@ -91,7 +89,7 @@ public final class PropertyCandy {
         private ChocolateFillingType chocolateFillingType;
         private IngredientImpl ingredient;
         private NutritionalValueImpl nutritionalValue;
-        private Date shelfLife;
+        private LocalDateTime shelfLife;
 
         public Builder ingredient(IngredientImpl ingredient) {
             this.ingredient = ingredient;
@@ -123,7 +121,7 @@ public final class PropertyCandy {
             return this;
         }
 
-        public Builder shelfLife(Date shelfLife) {
+        public Builder shelfLife(LocalDateTime shelfLife) {
             this.shelfLife = shelfLife;
             return this;
         }
@@ -166,7 +164,7 @@ public final class PropertyCandy {
                     production = data;
                     break;
                 case "data":
-                    shelfLife = stringToData(data);
+                    shelfLife = LocalDateTime.parse(data);
                     break;
                 case "chocolate-filling":
                     chocolateFillingType = ChocolateFillingType.valueOf(replaceIfPresent(data));
@@ -194,18 +192,6 @@ public final class PropertyCandy {
             Pattern pattern = Pattern.compile("-?");
             Matcher matcher = pattern.matcher(s);
             return matcher.replaceAll(MatchResult::group).replace(HYPHEN, UNDERSCORE).toUpperCase();
-        }
-
-        public Date stringToData(String string) throws SomeException {
-            string = string.replaceAll("T", " ");
-            SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-            Date date;
-            try {
-                date = sdf.parse(string);
-            } catch (ParseException e) {
-                throw new SomeException(e.getMessage());
-            }
-            return date;
         }
     }
 }

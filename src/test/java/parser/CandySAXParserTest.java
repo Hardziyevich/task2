@@ -27,9 +27,9 @@ class CandySAXParserTest {
     void testParser(){
         CandySAXParser parser = new CandySAXParser();
         assertAll(()->{
-            assertNotNull(parser.mainParser(path));
-            assertThrows(SomeException.class,()->parser.mainParser(Path.of(".txt")));
-            assertThrows(SomeException.class,()->parser.mainParser(null));
+            assertNotNull(parser.mainParseCandy(path));
+            assertThrows(SomeException.class,()->parser.mainParseCandy(Path.of(".txt")));
+            assertThrows(SomeException.class,()->parser.mainParseCandy(null));
         });
     }
 }
