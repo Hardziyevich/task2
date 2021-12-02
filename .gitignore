@@ -32,5 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 src/**/*.log
-src/**/log4j.xml
 src/**/*.pdf
